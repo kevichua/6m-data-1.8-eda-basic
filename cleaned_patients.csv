@@ -1,0 +1,7 @@
+patient_id,name,age,blood_type,ward,admission_date,days_admitted,risk_level
+101,Alice,34,A+,Cardiology,2024-01-15,5.0,Low
+102,Bob,28,O-,Neurology,2024-01-20,3.0,Low
+103,Charlie,34,B+,Cardiology,2024-02-01,8.0,Low
+104,Diana,45,Unknown,Oncology,2024-02-10,5.0,Medium
+105,,62,AB+,Cardiology,2024-02-15,12.0,High
+106,Frank,29,A-,Neurology,2024-03-01,4.0,Low
